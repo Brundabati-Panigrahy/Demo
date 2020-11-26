@@ -1,1 +1,7 @@
 this is my text file
+
+changing in this file
+
+aading new text from web
+this is my document
+
