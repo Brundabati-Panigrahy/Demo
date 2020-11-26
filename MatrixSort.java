@@ -1,7 +1,7 @@
 package matrix;
 //i am changing in branch 1
 import java.util.Scanner;
-
+//this class is to sort matrix
 public class MatrixSort {
 	static Scanner sc = new Scanner(System.in);
 
